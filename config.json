@@ -1,0 +1,17 @@
+{
+  "ApplicationTimes": [
+    {
+      "ApplicationTime": {
+        "Names": [
+          "notepad.exe"
+        ],
+        "OnTimes": [
+          "03:00"
+        ],
+        "OffTimes": [
+          "05:00"
+        ]
+      }
+    }
+  ]
+}
