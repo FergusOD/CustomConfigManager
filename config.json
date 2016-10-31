@@ -3,15 +3,13 @@
     {
       "ApplicationTime": {
         "Names": [
-          "chrome.exe",
-          "MicrosoftEdge.exe",
           "notepad.exe"
         ],
         "OnTimes": [
           "03:00"
         ],
         "OffTimes": [
-          "11:55"
+          "02:55"
         ]
       }
     }
