@@ -3,6 +3,7 @@
     {
       "ApplicationTime": {
         "Names": [
+          "chrome.exe",
           "MicrosoftEdge.exe",
           "notepad.exe"
         ],
