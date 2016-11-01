@@ -3,9 +3,7 @@
     {
       "ApplicationTime": {
         "Names": [
-          "notepad.exe",
-          "chrome.exe",
-          "MicrosoftEdge.exe"
+          "notepad.exe"
 
         ],
         "OnTimes": [
